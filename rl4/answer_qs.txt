@@ -1,0 +1,13 @@
+(1) Not Improving/learning.
+    - Low alpha (learning rate)
+
+(2) High variance but fast learning.
+    - High alpha (learning rate)
+
+(3) Low variance and high long-term return
+    - Low alpha (learning rate)
+    - High gamma (explore rate)
+
+(4) High variance and high long-term return
+    - High alpha (learning rate)
+    - High gamma (explore rate)
